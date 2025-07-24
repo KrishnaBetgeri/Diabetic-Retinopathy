@@ -51,9 +51,9 @@ Alternatively, use the .exe installer (if available) to install the app directly
 APTOS 2019 Blindness Detection Dataset from Kaggle
 
 👨‍💻 Contributors
-Krishna Shivkant Betgeri
-Nisarga Patil K
-Junaidahmed Khazi
+Krishna Shivkant Betgeri,
+Nisarga Patil K,
+Junaidahmed Khazi,
 Pruthviraj Revatagoan
 
 📄 License
